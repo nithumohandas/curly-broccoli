@@ -1,1 +1,4 @@
 # ignore files below
+.venv/
+.venv311/
+.idea/
