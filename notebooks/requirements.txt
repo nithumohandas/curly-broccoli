@@ -13,3 +13,6 @@ statsmodels>=0.14
 joblib>=1.3
 spacy
 torch
+torchvision
+python-dotenv
+openai>=1.0

@@ -2,3 +2,5 @@
 .venv/
 .venv311/
 .idea/
+notebooks/CNN/data/cifar-10-python.tar.gz
+.env
